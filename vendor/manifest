@@ -1,0 +1,18 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/kurin/blazer",
+			"repository": "https://github.com/kurin/blazer",
+			"revision": "62f7347904626882ed51068d62ff4ff3f1155cd2",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "ffcf1bedda3b04ebb15a168a59800a73d6dc0f4d",
+			"branch": "master",
+			"path": "/context"
+		}
+	]
+}
